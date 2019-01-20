@@ -1,0 +1,12 @@
+# Directories:
+**/build
+**/dist
+**/__pycache__
+
+# Files:
+*.lock
+*.pdf
+*.png
+*.csv
+*.xlsx
+*.xls

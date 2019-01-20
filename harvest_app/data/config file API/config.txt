@@ -1,0 +1,3 @@
+client_ID_to_use: CLIENT_ID_TO_USE
+min_percen: -10
+max_percen: 21
